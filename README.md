@@ -2,7 +2,6 @@
 Built a Logistics Operations Dashboard using Power BI with CSV data, including shipment analysis and weather monitoring insights.
 
 🚚 Logistics Operations & Weather Monitoring Dashboard
-
 Project Overview
 This project presents an end-to-end Logistics Operations Dashboard developed using Microsoft Power BI. The solution leverages data from CSV (Excel) files to analyze logistics performance and monitor external factors like weather conditions.
 
