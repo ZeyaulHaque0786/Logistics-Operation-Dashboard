@@ -84,7 +84,7 @@ How to Use
 3. Interact with filters and visuals
 
 
-Contact
+
 
 If you have any questions or feedback, feel free to connect.
 
