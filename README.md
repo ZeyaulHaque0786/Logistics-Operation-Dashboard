@@ -39,8 +39,7 @@ Tools & Technologies Used
 2. Delivery performance (on-time vs delayed)
 3. Cost analysis and operational efficiency
 4. Region-wise logistics performance
-https://github.com/ZeyaulHaque0786/Logistics-Operation-Dashboard/blob/main/Logistics%20Operation%20Dashboard.png?raw=true
-
+![image alt]https://github.com/ZeyaulHaque0786/Logistics-Operation-Dashboard/blob/main/Logistics%20Operation%20Dashboard.png?raw=true
 
 🌦️ Dashboard 2: Weather Monitoring
 
