@@ -50,6 +50,8 @@ Tools & Technologies Used
 2. Impact of weather on delivery delays
 3. Correlation between climate conditions and logistics performance
 
+![image alt](https://github.com/ZeyaulHaque0786/Logistics-Operation-Dashboard/blob/main/Weather%20Monitoring.png?raw=true)
+
 
 Project Workflow
 
